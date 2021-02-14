@@ -9,3 +9,6 @@ A simple maze that you have to escape. Along the catacombs of the labyrinth you 
 
 # Gameplay (you can find more screenshots in the "pictures_of_the_gameplay" directory)
 ![Small look at the game](https://github.com/MoonCake0019/Maze_Game/blob/main/pictures_of_the_gameplay/p6.png?raw=true)
+
+If you want to play the game, just download all the files and run them.
+Enjoy !

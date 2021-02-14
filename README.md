@@ -1,6 +1,7 @@
 # Maze_Game
 
 This is a small game developed by me using the olcConsoleGameEngine.
+
 The library can be found at : https://github.com/OneLoneCoder
 
 # Game description : 
